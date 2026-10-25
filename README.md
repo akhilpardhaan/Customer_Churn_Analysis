@@ -150,6 +150,3 @@ Customer-Churn-Analysis-Python-SQL-PowerBI/
 │   └── customer-churn-dashboard.png
 └── README.md
 ```
-
-
-## Akhil Raj
